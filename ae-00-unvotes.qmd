@@ -1,6 +1,6 @@
 ---
 title: "UN Votes"
-author: "Ted Smith"
+author: "Zachary Kujala"
 format: html
 editor: visual
 ---
